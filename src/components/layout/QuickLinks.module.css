@@ -1,0 +1,37 @@
+.quickLinksContainer {
+    margin: 20px;
+    text-align: center;
+    width: 346px;
+    height: 567px;
+    flex-shrink: 0;
+}
+
+.title {
+    font-size: 18px;
+    color: #444;
+    margin-bottom: 15px;
+}
+
+.card {
+    margin: 10px 0;
+    padding: 20px;
+    border-radius: 15px;
+    color: white;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.icon {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.text {
+    font-size: 20px;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+.para {
+    font-size: 14px;
+}
